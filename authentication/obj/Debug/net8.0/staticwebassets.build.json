@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XfpvVE69vu9TOiKa4i+zVZnacjgRG7jQ8tpVmF5NhZA=",
+  "Source": "authentication",
+  "BasePath": "_content/authentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
